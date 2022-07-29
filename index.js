@@ -47,10 +47,10 @@ menu.addEventListener('click', function(){
   })
 
 const images = [
-  '/images/image-product-1.jpg',
-  '/images/image-product-2.jpg',
-  '/images/image-product-3.jpg',
-  '/images/image-product-4.jpg'
+  './images/image-product-1.jpg',
+  './images/image-product-2.jpg',
+  './images/image-product-3.jpg',
+  './images/image-product-4.jpg'
 ]
 const firstImage = 0;
 const lastImage = images.length - 1;
